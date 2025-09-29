@@ -24,8 +24,6 @@ requirements:
   run:
     - python
     - poetry >=0.12
-    # - __unix  # [unix]  # Disable for testing
-    # - __win   # [win]  # Disable for testing
     - colorama >=0.4.4
     - mslex >=1.1.0,<2.0  # [win]
     - psutil >=5.7.2,<7.0
